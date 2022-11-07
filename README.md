@@ -5,4 +5,5 @@ Code task for Again X interview process. The tasks where:
 3. Part of your task will be to define the data mapping. All categories/features from the original file should be present in the transformed dataset. Choose a data structure and format that you believe is well suited for machine learning workloads. Explain why you choose this data structure and format. 
 4. Commit your code to Github
 
-I have removed all the big files from github, but the script downloads all necesarry files when it is run.
+
+All large data files are compressed.
